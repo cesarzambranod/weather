@@ -2,7 +2,8 @@ function App() {
 
   return (
     <>
-      <h2> Weather</h2>
+      <h2>Welcome Weather</h2>
+
     </>
   )
 }
